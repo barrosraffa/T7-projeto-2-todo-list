@@ -12,8 +12,8 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 
 ## FASES
 - **Fase 1**
-    [] Adicionar itens na lista
-    [] Poder dar check neles
+    [-]Adicionar itens na lista
+    [-] Poder dar check neles
     - Validar campo de texto para não entrar itens vazios
     - Limpar campo de texto depois que insere o item na lista
 - **Fase 2**
